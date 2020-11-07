@@ -1,0 +1,26 @@
+{
+  "name": "intro_to_ml",
+  "version": "1.0.0",
+  "description": "Introduction to Machine Learning presentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albert-rz/intro_to_ml.git"
+  },
+  "keywords": [
+    "ML"
+  ],
+  "author": "albert-rz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albert-rz/intro_to_ml/issues"
+  },
+  "homepage": "https://github.com/albert-rz/intro_to_ml#readme",
+  "dependencies": {
+    "decktape": "^3.1.0",
+    "live-server": "^1.2.1"
+  }
+}

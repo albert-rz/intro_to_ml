@@ -1,0 +1,87 @@
+body {
+    font-family: 'Ubuntu';
+}
+
+strong {
+    color: rgb(249, 38, 114);
+    font-weight: normal;
+}
+
+.center-img {
+    padding: 100px 0;
+}
+
+.center-img img {
+    max-width: 600px;
+}
+
+.remark-slide-container {
+    background-color: white;
+}
+
+.remark-slide-scaler {
+    box-shadow: none;
+}
+
+.middle .remark-slide-number {
+    display: none;
+}
+
+.remark-slide-number {
+    font-size: 14px;
+}
+
+
+.section-title-green {
+    background: #2a9d8f;
+    color: #272822;
+    background-image: url("img/r2d2.svg");
+    background-size: 30%;
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+}
+
+.section-title-orange {
+    background: #f4a261;
+    color: #272822;
+    background-image: url("img/c3po.svg");
+    background-size: 20%;
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+}
+
+.section-title-yellow {
+    background: #e9c46a;
+    color: #272822;
+}
+
+.section-title-dark {
+    background: #272822;
+    color: #f3f3f3;
+}
+
+.middle-content {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    _transform: translate(-50%,-50%);
+}
+
+
+.single-line-slide {
+    padding-top: 10px;
+}
+
+
+/*
+.middle-content img {
+    position: absolute;
+    top: 50%;
+    _transform: translateY(-50%);
+    transform: translate(-50%,-50%);
+}
+*/
+
+.foo {
+    height: 100%;
+}
