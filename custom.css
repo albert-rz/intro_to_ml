@@ -1,9 +1,16 @@
+/*
+https://visme.co/blog/website-color-schemes/
+*/
+
 body {
     font-family: 'Ubuntu';
 }
 
 strong {
     color: rgb(249, 38, 114);
+}
+
+p strong {
     font-weight: normal;
 }
 
@@ -64,24 +71,34 @@ strong {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    _transform: translate(-50%,-50%);
 }
 
 
-.single-line-slide {
-    padding-top: 10px;
+.left-menu {
+    width: 15%;
+    float: left;
 }
 
-
-/*
-.middle-content img {
-    position: absolute;
-    top: 50%;
-    _transform: translateY(-50%);
-    transform: translate(-50%,-50%);
+.right-content {
+    width: 85%;
+    float: right;
 }
-*/
 
-.foo {
-    height: 100%;
+.left-menu h4 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.left-menu h5 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.left-menu h6 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.left-menu:first-child {
+    margin-top: 30px
 }

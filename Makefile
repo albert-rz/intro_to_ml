@@ -10,7 +10,7 @@ serve:
 	npx live-server
 
 pdf:
-	npx decktape --chrome-path /opt/google/chrome/chrome remark http://localhost:8080 hola.pdf
+	npx decktape --chrome-path /opt/google/chrome/chrome remark http://localhost:8080 intro_to_ml.pdf
 
 evil-push:
 	cp -r .git .bak.git
