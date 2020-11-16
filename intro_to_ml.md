@@ -13,7 +13,7 @@ class: center middle section-title-green
 ## What was the first Machine Learning application?
 
 ---
-## First ML application: **the spam filter**
+## First ML application: *the spam filter*
 
 
 .center[
@@ -26,14 +26,14 @@ class: center middle section-title-green
 ## How would you code a spam filter?
 
 ---
-## Coding a spam filter: **traditional approach**
+## Traditional approach: *the developer learns*
 
 .center[
   ![spam_filter_traditional_approach](img/spam_filter_traditional_approach.drawio.svg)
 ]
 
 ---
-## Coding a spam filter: **ML approach**
+## ML approach: *the machine learns*
 
 .center[
   ![spam_filter_ml_approach](img/spam_filter_ml_approach.drawio.svg)
@@ -61,7 +61,7 @@ class: center middle section-title-yellow
     * Modelling
     * Visualization
 
-3. Hands-on ML (**practice**, 1h)
+3. Hands-on ML (*practice*, 1h)
 
 ---
 class: center middle section-title-yellow
@@ -72,21 +72,21 @@ class: center middle section-title-yellow
 ## What is ML?
 
 .middle-content[
-Machine learning is the field of study that gives computers the **ability to learn** without being **explicitely programmed**.
+Machine learning is the field of study that gives computers the *ability to learn* without being *explicitely programmed*.
 
 [Arthur L. Samuel, 1959]
 ]
 
 
 ---
-## AI **/** ML **/**  DL **/** DS **/** BD
+## AI */* ML */*  DL */* DS */* BD
 
 .center[
   ![ai_ml_ds](img/ai_ml_ds.svg)
 ]
 
 ---
-## Why ML?
+## ML can help *humans learn*!
 
 Some modern problems are too complex for traditional approaches:
 
@@ -97,11 +97,8 @@ Some modern problems are too complex for traditional approaches:
 * Getting insights from large amounts of data
 
 
-<br>
-#### Machine Learning can help **humans learn**!
-
 ---
-## Examples of applications
+## A wide range of use cases
 
 * Text classification
 
@@ -140,7 +137,68 @@ class: center middle section-title-yellow
 
 ---
 .left-menu[
-  #### **Data**
+#### *Data*
+###### Processing
+###### Vectorization
+###### Modelling
+###### Visualization
+]
+
+.right-content[
+  ## Structured */* Unstructured
+
+  #### Structured data
+
+  * Well defined interface to access data
+
+  * Data is formatted
+
+  * *SQL*, *XML*, *HTML*, *JSON*, *XLSX*, *CSV*, *PNG*...
+
+
+  #### Unstructured data
+
+  * No predefined interface to access data
+
+  * No predefined format
+
+  * *PDF*, *TXT*, *TEX*, *MD*...
+]
+
+
+???
+
+Structure data -> highly organized and formatted
+
+---
+.left-menu[
+#### *Data*
+###### Processing
+###### Vectorization
+###### Modelling
+###### Visualization
+]
+
+.right-content[
+  ## When structured isn't structured
+
+  <br>
+  <br>
+
+  |    name     |   surname   |  sex  | birthdate  | birthplace  | country |      phone      |
+  | :---------: | :---------: | :---: | :--------: | :---------: | :-----: | :-------------: |
+  |     Max     | Rockatasnky |   M   | 10-11-1984 |    Perth    |   AU    | +61 8 6245 2100 |
+  |  Immortan   |     Joe     |   m   | 01-02-1949 |  Canberra   |   AU    | +61 4 1234 5678 |
+  |    James    |   Connor    |   M   | 1985-02-28 | Los Angeles |   USA   |     unknown     |
+  | Alex Murphy |             |   M   |    1979    |   Detroit   |   US    |       tbc       |
+  |    John     |   McClane   |   M   | 1969-07-17 | Los Angeles |   US    |   4242706247    |
+  |    Pete     |  Mitchell   | MALE  | 1972-10-10 |  San Diego  |   US    |       tbc       |
+
+]
+
+---
+.left-menu[
+  #### *Data*
   ###### Processing
   ###### Vectorization
   ###### Modelling
@@ -148,12 +206,24 @@ class: center middle section-title-yellow
 ]
 
 .right-content[
-  ## Structured **/** Unstructured
+  ## Labelled */* Unlabelled
+
+  Labelled datasets include the desired solutions (*labels*), used in supervised learning.
+
+  ![spam_filter_ml_approach](img/spam_filter_labelled_data.drawio.svg)
 ]
 
 ---
+## Labelled */* Unlabelled
+
+Labelled datasets include the desired solutions (*labels*), used in supervised learning
+
+
+.footnote[asdf]
+
+---
 .left-menu[
-  #### **Data**
+  #### *Data*
   ###### Processing
   ###### Vectorization
   ###### Modelling
@@ -161,12 +231,12 @@ class: center middle section-title-yellow
 ]
 
 .right-content[
-  ## Labelled **/** Unlabelled
+  ## Categorical */* Quantitative
 ]
 
 ---
 .left-menu[
-  #### **Data**
+  #### *Data*
   ###### Processing
   ###### Vectorization
   ###### Modelling
@@ -174,25 +244,12 @@ class: center middle section-title-yellow
 ]
 
 .right-content[
-  ## Categorical **/** Quantitative
+  ## Training dataset */* Testing dataset
 ]
 
 ---
 .left-menu[
-  #### **Data**
-  ###### Processing
-  ###### Vectorization
-  ###### Modelling
-  ###### Visualization
-]
-
-.right-content[
-  ## Training dataset **/** Testing dataset
-]
-
----
-.left-menu[
-  #### **Data**
+  #### *Data*
   ###### Processing
   ###### Vectorization
   ###### Modelling
@@ -205,7 +262,7 @@ class: center middle section-title-yellow
 
 ---
 .left-menu[
-  #### **Data**
+  #### *Data*
   ###### Processing
   ###### Vectorization
   ###### Modelling
@@ -218,7 +275,7 @@ class: center middle section-title-yellow
 
 ---
 .left-menu[
-  #### **Data**
+  #### *Data*
   ###### Processing
   ###### Vectorization
   ###### Modelling

@@ -21,6 +21,7 @@
   "homepage": "https://github.com/albert-rz/intro_to_ml#readme",
   "dependencies": {
     "decktape": "^3.1.0",
-    "live-server": "^1.2.1"
+    "live-server": "^1.2.1",
+    "remark-footnotes": "^3.0.0"
   }
 }
