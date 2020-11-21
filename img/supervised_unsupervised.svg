@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg10601"
+   width="900"
+   height="500"
+   viewBox="0 0 900 500"
+   sodipodi:docname="supervised_unsupervised.svg"
+   inkscape:version="1.0.1 (1.0.1+r73)">
+  <metadata
+     id="metadata10607">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10605">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11368"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect11366"
+       is_visible="true"
+       lpeversion="1"
+       steps="1"
+       threshold="0.0277778"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <rect
+       x="647.61578"
+       y="491.01389"
+       width="278.10522"
+       height="451.53226"
+       id="rect11356" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     id="namedview10603"
+     showgrid="true"
+     inkscape:zoom="1.3050683"
+     inkscape:cx="440.44415"
+     inkscape:cy="243.90503"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g10609"
+     inkscape:document-rotation="0"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid829" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g10609">
+    <text
+       xml:space="preserve"
+       id="text11354"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect11356);fill:#000000;fill-opacity:1;stroke:none;" />
+    <path
+       style="fill:none;stroke:#f92672;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 429.48596,16.92269 V 474.23567"
+       id="path11364"
+       inkscape:path-effect="#path-effect11366;#path-effect11368"
+       inkscape:original-d="M 429.48596,16.92269 V 474.23567" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="313.22403"
+       y="90.561386"
+       id="text194"><tspan
+         sodipodi:role="line"
+         id="tspan192"
+         x="313.22403"
+         y="90.561386"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, '">Built on...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+       x="151.45592"
+       y="116.22831"
+       id="text12044-2-8-0"><tspan
+         sodipodi:role="line"
+         id="tspan12042-8-5-62"
+         x="151.45592"
+         y="116.22831"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.999999">Knowledge of desired output</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="334.77597"
+       y="189.17316"
+       id="text194-3"><tspan
+         sodipodi:role="line"
+         id="tspan192-8"
+         x="334.77597"
+         y="189.17316"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, '">Dataset</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+       x="199.50392"
+       y="218.20645"
+       id="text12044-2-8-0-0"><tspan
+         sodipodi:role="line"
+         id="tspan12042-8-5-62-4"
+         x="199.50392"
+         y="218.20645"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.999999">Labelled (class or value)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="363.47983"
+       y="291.38394"
+       id="text194-3-5"><tspan
+         sodipodi:role="line"
+         id="tspan192-8-6"
+         x="363.47983"
+         y="291.38394"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, '">Goal</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+       x="42.274708"
+       y="317.31842"
+       id="text12044-2-8-0-0-4"><tspan
+         sodipodi:role="line"
+         id="tspan12042-8-5-62-4-4"
+         x="42.274708"
+         y="317.31842"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.999999">Predict label (class or value) of data points</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="246.00024"
+       y="390.88422"
+       id="text194-3-5-1"><tspan
+         sodipodi:role="line"
+         id="tspan192-8-6-1"
+         x="246.00024"
+         y="390.88422"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, '">Main applications</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+       x="190.45059"
+       y="417.13638"
+       id="text12044-2-8-0-0-4-4"><tspan
+         sodipodi:role="line"
+         id="tspan12042-8-5-62-4-4-7"
+         x="190.45059"
+         y="417.13638"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.999999">Classification, regression</tspan></text>
+    <g
+       id="g1055"
+       transform="translate(-3.1982422e-5)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="460.4187"
+         y="88.293388"
+         id="text194-3-5-5"><tspan
+           sodipodi:role="line"
+           id="tspan192-8-6-9"
+           x="460.4187"
+           y="88.293388"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, '">Built on...</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+         x="459.51999"
+         y="116.35631"
+         id="text12044-2-8-0-6"><tspan
+           sodipodi:role="line"
+           id="tspan12042-8-5-62-3"
+           x="459.51999"
+           y="116.35631"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.999999">Patterns or structures identified in data</tspan><tspan
+           sodipodi:role="line"
+           x="459.51999"
+           y="139.68964"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.999999"
+           id="tspan14051">(no knowledge of output class or value)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="455.6282"
+         y="190.09715"
+         id="text194-3-5-5-8-8"><tspan
+           sodipodi:role="line"
+           id="tspan192-8-6-9-4-1"
+           x="455.6282"
+           y="190.09715"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, '">Dataset</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+         x="455.79825"
+         y="217.90245"
+         id="text12044-2-8-0-6-7"><tspan
+           sodipodi:role="line"
+           id="tspan12042-8-5-62-3-5"
+           x="455.79825"
+           y="217.90245"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.999999">Unlabelled</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="454.38171"
+         y="290.23193"
+         id="text194-3-5-5-8-0"><tspan
+           sodipodi:role="line"
+           id="tspan192-8-6-9-4-3"
+           x="454.38171"
+           y="290.23193"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, '">Goal</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+         x="456.58728"
+         y="317.31842"
+         id="text12044-2-8-0-6-9"><tspan
+           sodipodi:role="line"
+           id="tspan12042-8-5-62-3-6"
+           x="456.58728"
+           y="317.31842"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.999999">Identify groups of similar data points based</tspan><tspan
+           sodipodi:role="line"
+           x="456.58728"
+           y="340.65176"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.999999"
+           id="tspan14055">on internal criteria</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="457.5282"
+         y="388.78421"
+         id="text194-3-5-5-8"><tspan
+           sodipodi:role="line"
+           id="tspan192-8-6-9-4"
+           x="457.5282"
+           y="388.78421"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, '">Main applications</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999999"
+         x="458.73462"
+         y="416.8324"
+         id="text12044-2-8-0-6-2"><tspan
+           sodipodi:role="line"
+           id="tspan12042-8-5-62-3-1"
+           x="458.73462"
+           y="416.8324"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.999999">Clustering</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="575.00006"
+         y="115"
+         id="text14033"><tspan
+           sodipodi:role="line"
+           id="tspan14031"
+           x="575.00006"
+           y="115" /></text>
+    </g>
+  </g>
+</svg>

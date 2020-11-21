@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="900"
+   height="500"
+   viewBox="0 0 238.12499 132.29167"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (1.0.1+r73)"
+   sodipodi:docname="ai_ml_ds.svg">
+  <defs
+     id="defs2">
+    <rect
+       x="126.89319"
+       y="61.957412"
+       width="24.448849"
+       height="12.803041"
+       id="rect886" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="333.7428"
+     inkscape:cy="109.97929"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="opacity:1;fill:#f6bd60;fill-opacity:1;stroke:none;stroke-width:0.291426;stroke-linecap:square;stop-color:#000000"
+       id="path1825"
+       cx="121.81399"
+       cy="63.103317"
+       r="50" />
+    <circle
+       style="fill:#f7ede2;fill-opacity:1;stroke:none;stroke-width:0.218569;stroke-linecap:square;stop-color:#000000"
+       id="path1825-3"
+       cx="121.81399"
+       cy="73.293518"
+       r="37.5" />
+    <circle
+       style="opacity:1;fill:#f5cac3;fill-opacity:1;stroke:none;stroke-width:0.145713;stroke-linecap:square;stop-color:#000000"
+       id="path1825-3-6"
+       cx="121.81399"
+       cy="83.744881"
+       r="25" />
+    <circle
+       style="opacity:1;fill:#84a59d;fill-opacity:1;stroke:none;stroke-width:0.192688;stroke-linecap:square;stop-color:#000000"
+       id="path1825-3-6-3"
+       cx="171.39554"
+       cy="77.497955"
+       r="33.059631" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0.55;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="121.73498"
+       y="23.217285"
+       id="text873"><tspan
+         sodipodi:role="line"
+         id="tspan871"
+         x="121.73498"
+         y="23.217285"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.264583">Artificial</tspan><tspan
+         sodipodi:role="line"
+         x="121.73498"
+         y="29.038099"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan875">Intelligence</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0.55;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="121.79919"
+       y="45.434429"
+       id="text873-7"><tspan
+         sodipodi:role="line"
+         x="121.79919"
+         y="45.434429"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan875-6">Machine</tspan><tspan
+         sodipodi:role="line"
+         x="121.79919"
+         y="51.255245"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan900">Learning</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0.55;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="121.79919"
+       y="72.364799"
+       id="text873-7-4"><tspan
+         sodipodi:role="line"
+         x="121.79919"
+         y="72.364799"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan900-0">Deep</tspan><tspan
+         sodipodi:role="line"
+         x="121.79919"
+         y="78.185616"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan925">Learning</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0.55;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="171.67627"
+       y="59.544903"
+       id="text873-7-4-3"><tspan
+         sodipodi:role="line"
+         x="171.67627"
+         y="59.544903"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan925-9">Data Science</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="7.0209961"
+       y="10.38122"
+       id="text876"><tspan
+         sodipodi:role="line"
+         id="tspan874"
+         x="7.0209961"
+         y="10.38122"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.15;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583">Systems performing tasks normally</tspan><tspan
+         sodipodi:role="line"
+         x="7.0209961"
+         y="15.249549"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.15;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
+         id="tspan878">requiring human intelligence</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0.45;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="8.0308399"
+       y="37.770313"
+       id="text882"><tspan
+         sodipodi:role="line"
+         x="8.0308399"
+         y="37.770313"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
+         id="tspan890">Systems with the ability to learn</tspan><tspan
+         sodipodi:role="line"
+         x="8.0308399"
+         y="42.551517"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
+         id="tspan894">without being explicitely programmed</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text884"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333px;white-space:pre;shape-inside:url(#rect886)"><tspan
+         sodipodi:role="line"
+         id="tspan888"></tspan></text>
+  </g>
+</svg>
